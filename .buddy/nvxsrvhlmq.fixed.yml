@@ -1,4 +1,4 @@
-- pipeline: nvxsrvhlmq
+- pipeline: Nvxsrvhlmq
   refs:
   - refs/heads/master
   on: CLICK
