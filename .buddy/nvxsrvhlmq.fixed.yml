@@ -1,0 +1,4 @@
+- pipeline: nvxsrvhlmq
+  refs:
+  - refs/heads/master
+  on: CLICK
